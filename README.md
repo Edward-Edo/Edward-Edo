@@ -1,6 +1,6 @@
 ## Hola 👋, soy Edward
 
-<img align="right" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2Fx87lsd%2Fsoftware_developer_by_day_pixel_artist_by_night%2F&psig=AOvVaw1pwR73hBGhul8xMLWpmM_-&ust=1731799333824000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjS1Li934kDFQAAAAAdAAAAABAJ" alt="Hola Coders" width="500" height="350"/> 
 
 ### 🚀 Desarrollador Full Stack con más de 6 años de experiencia  
 
