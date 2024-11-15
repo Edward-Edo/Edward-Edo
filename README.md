@@ -1,24 +1,54 @@
-## Hi 👋, my name is Edward
+## Hola 👋, soy Edward
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="[https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)" alt="Hola Coders" width="500" height="350"/> 
 
-##### I am a full stack developer with 7+ years of industry experience building web applications.
+### 🚀 Desarrollador Full Stack con más de 6 años de experiencia  
 
-- 🔭 I’m currently working on [BatNoter](https://github.com/batnoter/batnoter).
-- 🌱 I’m currently learning **RegEx**
-- 🤔 I’m looking for help with [BatNoter Issues](https://github.com/batnoter/batnoter/issues)
-- 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I paint at times!
+Me especializo en construir aplicaciones web robustas y escalables, escribiendo código limpio y mantenible, y entregando soluciones excepcionales adaptadas a las necesidades del cliente. Mi pasión está en crear sistemas potentes y fáciles de usar.  
 
-##### Online Presence
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vivekweb2013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/814548)  
+### 🔧 Mi Stack Tecnológico:
+- **Lenguajes**: PHP, JavaScript, HTML, CSS  
+- **Frameworks**: Laravel, Livewire, Vue.js, React  
+- **Bases de Datos**: MySQL, PostgreSQL  
+- **Herramientas**: Git, Docker, Composer, NPM, VS Code  
+- **Otros**: APIs REST, JSON, Expresiones Regulares (RegEx), Administración de Servidores  
+
 ---
-<div>
-  <a href="https://github.com/vivekweb2013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekweb2013&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekweb2013&layout=compact&langs_count=6"/>
+
+### 🌟 Un Vistazo a Mi Trayectoria:
+- 💼 Actualmente trabajando en [CondominoPlus](https://github.com/example-link) y [Pagate](https://github.com/example-link).  
+- 🌱 Ampliando mis conocimientos en **componentes avanzados de Laravel** y **bibliotecas de JavaScript**.  
+- 🤔 Abierto a colaboraciones en **soluciones web centradas en la comunidad**.  
+- 💬 No dudes en preguntarme sobre **PHP, Laravel, Livewire y optimización del rendimiento web**.  
+- ⚡ Dato curioso: Soy venezolano y disfruto enseñar y guiar a nuevos desarrolladores.  
+
+---
+
+### 🎯 ¿Qué Me Hace Diferente?
+- Historial comprobado de entregar soluciones completas.  
+- Experiencia en desarrollo dinámico de interfaces UI/UX.  
+- Pasión por resolver problemas y depurar errores complejos.  
+
+---
+
+### 🤣 Un Toque de Humor:
+> ¿Por qué los programadores prefieren el té en lugar del café?  
+> ¡Porque siempre prefieren evitar los bugs! 🐛☕
+
+---
+
+### 📫 ¡Conéctate Conmigo!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/your-profile)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/your-profile)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/your-profile)  
+
+---
+
+<div align="center">
+  <a href="https://github.com/your-profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&langs_count=6"/>
 </div>
 
-![Profile views](https://gpvc.arturio.dev/vivekweb2013)  
+![Visitas al perfil](https://gpvc.arturio.dev/your-profile)
+
