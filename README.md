@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **RegEx**
 - 🤔 I’m looking for help with [BatNoter Issues](https://github.com/batnoter/batnoter/issues)
 - 💬 Ask me about **Golang, ReactJS, Docker, Kubernetes, Helm**
-- 📫 How to reach me: vivekweb2013@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
 
