@@ -1,6 +1,6 @@
 ## Hola 👋, soy Edward
 
-<img align="right" src="https://i.redd.it/1d11s820dgm91.gif" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="https://i.redd.it/1d11s820dgm91.gif" alt="Hola Coders" width="550" height="400"/> 
 
 ### 🚀 Desarrollador Full Stack con más de 6 años de experiencia  
 
