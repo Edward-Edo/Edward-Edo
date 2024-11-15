@@ -1,6 +1,6 @@
 ## Hola 👋, soy Edward
 
-<img align="right" src="[https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)" alt="Hola Coders" width="500" height="350"/> 
+<img align="right" src="[https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif]" alt="Hola Coders" width="500" height="350"/> 
 
 ### 🚀 Desarrollador Full Stack con más de 6 años de experiencia  
 
